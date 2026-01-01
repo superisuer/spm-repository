@@ -4,7 +4,7 @@
       "name": "shifratori",
       "description": "Steganography tool for hiding text in text using zero-width characters with seed setting.",
       "version": "1.0",
-      "install_type": 1,
+      "install_type": 2,
       "archive_url": "https://github.com/superisuer/shifratori/archive/main.zip"
     }
   ]
